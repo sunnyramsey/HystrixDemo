@@ -1,0 +1,10 @@
+E:\IdeaProjects\hystrixdemo\src\test\java\com\ramsey\hystrix\basic\CommandWithFallbackViaNetworkTest.java
+E:\IdeaProjects\hystrixdemo\src\test\java\com\ramsey\hystrix\failure\CommandHelloFailureTest.java
+E:\IdeaProjects\hystrixdemo\src\test\java\com\ramsey\hystrix\collapser\CommandCollapserGetValueTest.java
+E:\IdeaProjects\hystrixdemo\src\test\java\com\ramsey\hystrix\collapser\ObservableCommandCollapserGetValueTest.java
+E:\IdeaProjects\hystrixdemo\src\test\java\com\ramsey\hystrix\basic\CommandUsingRequestCacheInvalidationTest.java
+E:\IdeaProjects\hystrixdemo\src\test\java\com\ramsey\hystrix\failure\ObservableCommandHelloFailureTest.java
+E:\IdeaProjects\hystrixdemo\src\test\java\com\ramsey\hystrix\basic\CommandHelloWorldTest.java
+E:\IdeaProjects\hystrixdemo\src\test\java\com\ramsey\hystrix\basic\CommandUsingRequestCacheTest.java
+E:\IdeaProjects\hystrixdemo\src\test\java\com\ramsey\hystrix\basic\ObservableCommandHelloWorldTest.java
+E:\IdeaProjects\hystrixdemo\src\test\java\com\ramsey\hystrix\basic\CommandFacadeWithPrimarySecondaryTest.java

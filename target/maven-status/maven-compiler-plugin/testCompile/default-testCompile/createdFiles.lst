@@ -1,0 +1,17 @@
+com\ramsey\hystrix\failure\ObservableCommandHelloFailureTest.class
+com\ramsey\hystrix\basic\ObservableCommandHelloWorldTest$4.class
+com\ramsey\hystrix\collapser\ObservableCommandCollapserGetValueTest.class
+com\ramsey\hystrix\basic\CommandUsingRequestCacheTest.class
+com\ramsey\hystrix\basic\CommandUsingRequestCacheInvalidationTest.class
+com\ramsey\hystrix\basic\CommandWithFallbackViaNetworkTest.class
+com\ramsey\hystrix\basic\ObservableCommandHelloWorldTest$2.class
+com\ramsey\hystrix\basic\ObservableCommandHelloWorldTest.class
+com\ramsey\hystrix\basic\CommandHelloWorldTest$1.class
+com\ramsey\hystrix\basic\CommandHelloWorldTest.class
+com\ramsey\hystrix\basic\ObservableCommandHelloWorldTest$1.class
+com\ramsey\hystrix\failure\ObservableCommandHelloFailureTest$1.class
+com\ramsey\hystrix\collapser\CommandCollapserGetValueTest.class
+com\ramsey\hystrix\failure\CommandHelloFailureTest.class
+com\ramsey\hystrix\basic\CommandHelloWorldTest$2.class
+com\ramsey\hystrix\basic\CommandFacadeWithPrimarySecondaryTest.class
+com\ramsey\hystrix\basic\ObservableCommandHelloWorldTest$3.class
